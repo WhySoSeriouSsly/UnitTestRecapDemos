@@ -1,0 +1,4 @@
+C:\Users\Ertan-PC\source\repos\UiTests\Helpers\Helpers\obj\Debug\netcoreapp2.1\Helpers.csprojAssemblyReference.cache
+C:\Users\Ertan-PC\source\repos\UiTests\Helpers\Helpers\obj\Debug\netcoreapp2.1\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Ertan-PC\source\repos\UiTests\Helpers\Helpers\obj\Debug\netcoreapp2.1\Helpers.AssemblyInfoInputs.cache
+C:\Users\Ertan-PC\source\repos\UiTests\Helpers\Helpers\obj\Debug\netcoreapp2.1\Helpers.AssemblyInfo.cs
